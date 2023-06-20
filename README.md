@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thiapeace
+- 👋 Hi, I’m @cythiaabigail
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning SQL and py.
 - 💞️ I’m looking to collaborate on ...
